@@ -8,4 +8,4 @@ An elegant silky smooth fully responsive landing page designed to meet the pleas
 
 
 
-**Live version:**  
+**Live version:**  https://yasermj.github.io/Silky-landing-page/
